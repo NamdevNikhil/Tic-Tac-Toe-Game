@@ -24,4 +24,4 @@ A simple, Tic Tac Toe game built with HTML, CSS, and JavaScript.
 ## Author
 
 [Nikhil Namdev]
-- GitHub: [@yourusername](https://github.com/NamdevNikhil)
+- GitHub: [@Nikhil](https://github.com/NamdevNikhil)

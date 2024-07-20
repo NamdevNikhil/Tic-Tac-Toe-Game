@@ -51,6 +51,7 @@ const enableBoxes = () => {
     for(let box of boxes){
         box.disabled = false;
         box.innerText = "";
+        msg.innerText = "Tic Tac Toe";
     }
 }
 
